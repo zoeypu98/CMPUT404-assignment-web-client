@@ -7,6 +7,9 @@ See requirements.org (plain-text) for a description of the project.
 
 Make a simple web-client like curl or wget
 
+Collaborators:
+Tianying Xia(txia)
+
 Contributors / Licensing
 ========================
 
